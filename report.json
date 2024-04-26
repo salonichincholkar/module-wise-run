@@ -1,0 +1,91 @@
+undefined
+{
+  "stats": {
+    "suites": 2,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-04-25T10:40:33.116Z",
+    "end": "2024-04-25T10:40:34.739Z",
+    "duration": 1623
+  },
+  "tests": [
+    {
+      "title": "test case should work",
+      "fullTitle": "Verify setup with Google Search test case should work",
+      "file": "H:\\Assignments\\module wise run\\test\\index.js",
+      "duration": 924,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "static test case check",
+      "fullTitle": "Verify setup with Google Search static test case check",
+      "file": "H:\\Assignments\\module wise run\\test\\index.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "test case should work",
+      "fullTitle": "Module One test case should work",
+      "file": "H:\\Assignments\\module wise run\\test\\module-1.js",
+      "duration": 630,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "static test case check",
+      "fullTitle": "Module One static test case check",
+      "file": "H:\\Assignments\\module wise run\\test\\module-1.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "test case should work",
+      "fullTitle": "Verify setup with Google Search test case should work",
+      "file": "H:\\Assignments\\module wise run\\test\\index.js",
+      "duration": 924,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "static test case check",
+      "fullTitle": "Verify setup with Google Search static test case check",
+      "file": "H:\\Assignments\\module wise run\\test\\index.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "test case should work",
+      "fullTitle": "Module One test case should work",
+      "file": "H:\\Assignments\\module wise run\\test\\module-1.js",
+      "duration": 630,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "static test case check",
+      "fullTitle": "Module One static test case check",
+      "file": "H:\\Assignments\\module wise run\\test\\module-1.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
